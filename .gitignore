@@ -1,0 +1,11 @@
+gitignore
+# Ignorar caché y archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar la carpeta de subidas (opcional, pero recomendado si son muchas imágenes)
+# uploads/
+
+# Ignorar plugins que no hayas modificado (opcional)
+# plugins/akismet/
+# plugins/hello.php
